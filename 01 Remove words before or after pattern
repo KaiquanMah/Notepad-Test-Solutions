@@ -1,0 +1,6 @@
+#source: https://superuser.com/questions/1222441/remove-text-after-sign
+#remove words after pattern
+<pattern>.*
+
+#remove words before pattern
+.*<pattern>
